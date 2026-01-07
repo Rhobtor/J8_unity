@@ -1,0 +1,2 @@
+Invoking command in '/home/rhobtor/Unity/J8_unity/build/com': /opt/st/stm32cubeclt_1.18.0/CMake/bin/cmake --build /home/rhobtor/Unity/J8_unity/build/com -- -j16 -l16
+Invoked command in '/home/rhobtor/Unity/J8_unity/build/com' returned '2': /opt/st/stm32cubeclt_1.18.0/CMake/bin/cmake --build /home/rhobtor/Unity/J8_unity/build/com -- -j16 -l16

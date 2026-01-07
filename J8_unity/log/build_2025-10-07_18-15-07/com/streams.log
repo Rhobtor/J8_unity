@@ -1,0 +1,27 @@
+[0.165s] Invoking command in '/home/rhobtor/Unity/J8_unity/build/com': /opt/st/stm32cubeclt_1.18.0/CMake/bin/cmake /home/rhobtor/Unity/J8_unity/src/TFG_KDN_UnityROS2/Unity-ROS2-Project/Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Editor/COMIntegration/COMIntegration~ -DCMAKE_INSTALL_PREFIX=/home/rhobtor/Unity/J8_unity/install/com
+[0.724s] -- The C compiler identification is GNU 11.4.0
+[0.724s] -- The CXX compiler identification is GNU 11.4.0
+[0.724s] -- Detecting C compiler ABI info
+[0.724s] -- Detecting C compiler ABI info - done
+[0.724s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.725s] -- Detecting C compile features
+[0.725s] -- Detecting C compile features - done
+[0.726s] -- Detecting CXX compiler ABI info
+[0.726s] -- Detecting CXX compiler ABI info - done
+[0.726s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.726s] -- Detecting CXX compile features
+[0.726s] -- Detecting CXX compile features - done
+[0.726s] -- Configuring done (0.3s)
+[0.726s] -- Generating done (0.0s)
+[0.727s] -- Build files have been written to: /home/rhobtor/Unity/J8_unity/build/com
+[0.871s] Invoked command in '/home/rhobtor/Unity/J8_unity/build/com' returned '0': /opt/st/stm32cubeclt_1.18.0/CMake/bin/cmake /home/rhobtor/Unity/J8_unity/src/TFG_KDN_UnityROS2/Unity-ROS2-Project/Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Editor/COMIntegration/COMIntegration~ -DCMAKE_INSTALL_PREFIX=/home/rhobtor/Unity/J8_unity/install/com
+[0.873s] Invoking command in '/home/rhobtor/Unity/J8_unity/build/com': /opt/st/stm32cubeclt_1.18.0/CMake/bin/cmake --build /home/rhobtor/Unity/J8_unity/build/com -- -j16 -l16
+[0.887s] [ 50%] [32mBuilding CXX object CMakeFiles/COMIntegration.dir/COMIntegration.cpp.o[0m
+[0.960s] [01m[K/home/rhobtor/Unity/J8_unity/src/TFG_KDN_UnityROS2/Unity-ROS2-Project/Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Editor/COMIntegration/COMIntegration~/COMIntegration.cpp:11:10:[m[K [01;31m[Kfatal error: [m[Kwindows.h: No such file or directory
+[0.960s]    11 | #include [01;31m[K<windows.h>[m[K
+[0.960s]       |          [01;31m[K^~~~~~~~~~~[m[K
+[0.960s] compilation terminated.
+[0.962s] gmake[2]: *** [CMakeFiles/COMIntegration.dir/build.make:76: CMakeFiles/COMIntegration.dir/COMIntegration.cpp.o] Error 1
+[0.962s] gmake[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/COMIntegration.dir/all] Error 2
+[0.962s] gmake: *** [Makefile:91: all] Error 2
+[0.964s] Invoked command in '/home/rhobtor/Unity/J8_unity/build/com' returned '2': /opt/st/stm32cubeclt_1.18.0/CMake/bin/cmake --build /home/rhobtor/Unity/J8_unity/build/com -- -j16 -l16

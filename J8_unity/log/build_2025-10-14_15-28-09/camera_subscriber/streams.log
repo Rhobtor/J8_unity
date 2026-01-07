@@ -1,0 +1,27 @@
+[1.861s] Invoking command in '/home/rhobtor/Unity/J8_unity/src/TFG_KDN_UnityROS2/ros2_ws/src/camera_subscriber': PYTHONPATH=/home/rhobtor/Unity/J8_unity/build/camera_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rhobtor/Unity/J8_unity/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../build/camera_subscriber build --build-base /home/rhobtor/Unity/J8_unity/build/camera_subscriber/build install --record /home/rhobtor/Unity/J8_unity/build/camera_subscriber/install.log --single-version-externally-managed install_data
+[2.073s] /home/rhobtor/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[2.073s]   warnings.warn(msg)
+[2.179s] running egg_info
+[2.196s] writing ../../../../../build/camera_subscriber/camera_subscriber.egg-info/PKG-INFO
+[2.196s] writing dependency_links to ../../../../../build/camera_subscriber/camera_subscriber.egg-info/dependency_links.txt
+[2.197s] writing entry points to ../../../../../build/camera_subscriber/camera_subscriber.egg-info/entry_points.txt
+[2.197s] writing requirements to ../../../../../build/camera_subscriber/camera_subscriber.egg-info/requires.txt
+[2.198s] writing top-level names to ../../../../../build/camera_subscriber/camera_subscriber.egg-info/top_level.txt
+[2.231s] reading manifest file '../../../../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[2.233s] writing manifest file '../../../../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[2.233s] running build
+[2.233s] running build_py
+[2.233s] copying camera_subscriber/camera_subscriber.py -> /home/rhobtor/Unity/J8_unity/build/camera_subscriber/build/lib/camera_subscriber
+[2.234s] copying camera_subscriber/__init__.py -> /home/rhobtor/Unity/J8_unity/build/camera_subscriber/build/lib/camera_subscriber
+[2.234s] running install
+[2.239s] running install_lib
+[2.260s] running install_data
+[2.260s] copying resource/camera_subscriber -> /home/rhobtor/Unity/J8_unity/install/camera_subscriber/share/ament_index/resource_index/packages
+[2.261s] copying package.xml -> /home/rhobtor/Unity/J8_unity/install/camera_subscriber/share/camera_subscriber
+[2.261s] running install_egg_info
+[2.279s] removing '/home/rhobtor/Unity/J8_unity/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info' (and everything under it)
+[2.279s] Copying ../../../../../build/camera_subscriber/camera_subscriber.egg-info to /home/rhobtor/Unity/J8_unity/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info
+[2.282s] running install_scripts
+[2.325s] Installing camera_subscriber script to /home/rhobtor/Unity/J8_unity/install/camera_subscriber/lib/camera_subscriber
+[2.326s] writing list of installed files to '/home/rhobtor/Unity/J8_unity/build/camera_subscriber/install.log'
+[2.350s] Invoked command in '/home/rhobtor/Unity/J8_unity/src/TFG_KDN_UnityROS2/ros2_ws/src/camera_subscriber' returned '0': PYTHONPATH=/home/rhobtor/Unity/J8_unity/build/camera_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rhobtor/Unity/J8_unity/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../build/camera_subscriber build --build-base /home/rhobtor/Unity/J8_unity/build/camera_subscriber/build install --record /home/rhobtor/Unity/J8_unity/build/camera_subscriber/install.log --single-version-externally-managed install_data
