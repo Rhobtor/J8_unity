@@ -72,3 +72,6 @@ ros2_ws/log/
 
 # Mono crash files
 mono_crash*.blob
+
+# Keep UserSettings but ignore some dynamic files
+UserSettings/Layouts/CurrentMaximizeLayout.dwlt
